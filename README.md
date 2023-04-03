@@ -2,13 +2,17 @@
 
 ### Informática
 
-**Esquema Nacional de Seguridad**
+#### Esquema Nacional de Seguridad
 
-**ENS 2022: Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad**
+**ENS 2022:**
+
+Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad**
 
 https://www.boe.es/eli/es/rd/2022/05/03/311/con
 
-**~~ENS 2010 (derogado)~~**
+**Derogado**
+
+**~~ENS 2010~~**
 
 **~~Real Decreto 3/2010, de 8 de enero, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica~~**
 
@@ -115,17 +119,21 @@ https://www.ccn-cert.cni.es/soluciones-seguridad
 
 **VANESA:**   Grabaciones y emisiones de vídeo en streaming
 
-**Fuera de temario**
+#### Directiva NIS
 
-**~~Directiva NIS~~**
+**Fuera de temario**
 
 **~~Directiva (UE) 2016/1148 del Parlamento Europeo y del Consejo, de 6 de julio de 2016, relativa a las medidas destinadas a garantizar un elevado nivel común de seguridad de las redes y sistemas de información en la Unión~~**
 
 ~~https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-81297~~
 
+**Fuera de temario**
+
 **~~Real Decreto-ley 12/2018, de 7 de septiembre, de seguridad de las redes y sistemas de información (transposición Directiva (UE) 2016/1148 del Parlamento Europeo y del Consejo)~~**
 
 ~~https://www.boe.es/eli/es/rdl/2018/09/07/12/con~~
+
+**Fuera de temario**
 
 **~~Real Decreto 43/2021, de 26 de enero, por el que se desarrolla el Real Decreto-ley 12/2018, de 7 de septiembre, de seguridad de las redes y sistemas de información (desarrollo de Real Decreto-ley 12/2018)~~**
 
@@ -149,11 +157,15 @@ https://www.ccn-cert.cni.es/soluciones-seguridad
 
 * DNI electrónico/Servicios de confianza
 
-  **~~Directiva 1999/93/CE del Parlamento Europeo y del Consejo, de 13 de diciembre de 1999, por la que se establece un marco comunitario para la firma electrónica (derogada)~~**
+  **Derogada**
+
+  **~~Directiva 1999/93/CE del Parlamento Europeo y del Consejo, de 13 de diciembre de 1999, por la que se establece un marco comunitario para la firma electrónica~~**
 
   ~~https://www.boe.es/buscar/doc.php?id=DOUE-L-2000-80059~~
 
-  **~~Ley 59/2003, de 19 de diciembre, de firma electrónica (transposición de Directiva 1999/93/CE del Parlamento Europeo y del Consejo, derogada)~~**
+  **Derogada**
+
+  **~~Ley 59/2003, de 19 de diciembre, de firma electrónica (transposición de Directiva 1999/93/CE del Parlamento Europeo y del Consejo)~~**
 
   ~~https://www.boe.es/eli/es/l/2003/12/19/59/con~~
 
@@ -173,29 +185,35 @@ https://www.ccn-cert.cni.es/soluciones-seguridad
 
 * Protección de datos
 
-  **~~Ley Orgánica 5/1992, de 29 de octubre, de regulación del tratamiento automatizado de los datos de carácter personal (derogada)~~**
+  **Derogada**
+
+  **~~Ley Orgánica 5/1992, de 29 de octubre, de regulación del tratamiento automatizado de los datos de carácter personal~~**
 
   ~~https://www.boe.es/eli/es/lo/1992/10/29/5~~
 
-  **~~Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (derogada)~~**
+  **Derogada**
+
+  **~~Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos~~**
 
   ~~https://www.boe.es/buscar/doc.php?id=DOUE-L-1995-81678~~
 
-  **~~Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (transposición de Directiva 95/46/CE del Parlamento Europeo y del Consejo, derogada)~~**
+  **Derogada**
+
+  **~~Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (transposición de Directiva 95/46/CE del Parlamento Europeo y del Consejo~~**
 
   ~~https://www.boe.es/eli/es/lo/1999/12/13/15/con~~
 
-  **Fuera de temario**
+  **~~Fuera de temario~~**
 
-  **Directiva (UE) 2016/680 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales por parte de las autoridades competentes para fines de prevención, investigación, detección o enjuiciamiento de infracciones penales o de ejecución de sanciones penales, y a la libre circulación de dichos datos y por la que se deroga la Decisión Marco 2008/977/JAI del Consejo**
+  **~~Directiva (UE) 2016/680 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales por parte de las autoridades competentes para fines de prevención, investigación, detección o enjuiciamiento de infracciones penales o de ejecución de sanciones penales, y a la libre circulación de dichos datos y por la que se deroga la Decisión Marco 2008/977/JAI del Consejo~~**
 
-  https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-80808
+  ~~https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-80808~~
 
-  **Fuera de temario**
+  **~~Fuera de temario~~**
 
-  **Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales (tranposición de Directiva (UE) 2016/680 del Parlamento Europeo y del Consejo)**
+  **~~Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales y de ejecución de sanciones penales (tranposición de Directiva (UE) 2016/680 del Parlamento Europeo y del Consejo)~~**
 
-  https://www.boe.es/eli/es/lo/2021/05/26/7/con
+  ~~https://www.boe.es/eli/es/lo/2021/05/26/7/con~~
 
   Reglamento General de Protección de Datos (RGPD)
 
@@ -217,7 +235,9 @@ https://www.ccn-cert.cni.es/soluciones-seguridad
 
 * Administración electrónica
 
-  **~~Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos (derogada)~~**
+  **Derogada**
+
+  **~~Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos~~**
 
   ~~https://www.boe.es/eli/es/l/2007/06/22/11/con~~
 
@@ -232,10 +252,12 @@ https://www.ccn-cert.cni.es/soluciones-seguridad
   **Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público**
 
   https://www.boe.es/eli/es/l/2015/10/01/40/con
+  
+* Reutilización de datos/ Datos abiertos
 
-* Reutilización de datos abiertos (RISP)
+  **Derogada**
 
-  **~~Directiva 2003/98/CE del Parlamento Europeo y del Consejo, de 17 de noviembre de 2003, relativa a la reutilización de la información del sector público (derogada)~~**
+  **~~Directiva 2003/98/CE del Parlamento Europeo y del Consejo, de 17 de noviembre de 2003, relativa a la reutilización de la información del sector público~~**
 
   ~~https://www.boe.es/buscar/doc.php?id=DOUE-L-2003-82244~~
 
@@ -243,7 +265,7 @@ https://www.ccn-cert.cni.es/soluciones-seguridad
 
   https://www.boe.es/buscar/doc.php?id=DOUE-L-2019-81091
 
-* Reutilización de información de datos públicos
+  Reutilización de información del sector público (RISP)
 
   **Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público (pendiente: debe transponer a Directiva (UE) 2019/1024 del Parlamento Europeo y del Consejo)**
 
