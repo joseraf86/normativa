@@ -240,6 +240,8 @@ https://www.ccn-cert.cni.es/soluciones-seguridad
   **~~Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos~~**
 
   ~~https://www.boe.es/eli/es/l/2007/06/22/11/con~~
+  
+  LPAC AA.PP.
 
   **Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (sustituye a Ley 11/2007 de acceso electrónico de los ciudadanos a los Servicios Públicos)**
 
@@ -248,6 +250,8 @@ https://www.ccn-cert.cni.es/soluciones-seguridad
   **Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos (desarrolla Ley 39/2015 LPAC AA.PP.)**
 
   https://www.boe.es/eli/es/rd/2021/03/30/203/con
+  
+  LRJSP
 
   **Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público**
 
@@ -297,7 +301,7 @@ https://www.ccn-cert.cni.es/soluciones-seguridad
 
   registro electrónico de la AGE (REC/REG) regageXXXXX
 
-  regisstro de funcionarios habilitados (RFH)
+  registro de funcionarios habilitados (RFH)
 
   registro central de personal (RCP)
 
