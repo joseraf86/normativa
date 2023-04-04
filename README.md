@@ -6,7 +6,7 @@
 
 **ENS 2022:**
 
-Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad**
+**Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad**
 
 https://www.boe.es/eli/es/rd/2022/05/03/311/con
 
