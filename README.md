@@ -202,6 +202,24 @@ https://www.ccn-cert.cni.es/soluciones-seguridad
   **~~Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (transposición de Directiva 95/46/CE del Parlamento Europeo y del Consejo~~**
 
   ~~https://www.boe.es/eli/es/lo/1999/12/13/15/con~~
+  
+   **Derogada**
+  
+  **~~Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.~~**
+  
+  ~~https://www.boe.es/eli/es/rd/2007/12/21/1720/con~~
+  
+  **Derogada**
+  
+  **~~Real Decreto-ley 5/2018, de 27 de julio, de medidas urgentes para la adaptación del Derecho español a la normativa de la Unión Europea en materia de protección de datos.~~**
+  
+  ~~https://www.boe.es/eli/es/rdl/2018/07/27/5/con~~
+ 
+   **~~Fuera de temario~~**
+   
+  **~~Instrucción 1/2006, de 8 de noviembre, de la Agencia Española de Protección de Datos, sobre el tratamiento de datos personales con fines de vigilancia a través de sistemas de cámaras o videocámaras.~~**
+  
+  ~~https://www.boe.es/eli/es/ins/2006/11/08/1/con~~
 
   **~~Fuera de temario~~**
 
